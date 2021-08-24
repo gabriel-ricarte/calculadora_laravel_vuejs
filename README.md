@@ -1,2 +1,6 @@
 # Calculadora simples utilizando laravel e Vue Js
-# Para iniciar a aplicação basta clonar o projeto, assim que terminar entrar na pasta pelo cmd e digitar o comando "composer update"
+### Passos necessários para rodar o projeto
+- rodar o comando $ composer update
+- criar o arquivo .env com base no arquivo .env.example
+- gerar a key com o comando $ php artisan key:generate
+- rodar o comando $ php artisan serve
